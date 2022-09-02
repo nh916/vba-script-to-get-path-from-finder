@@ -1,0 +1,1 @@
+# vba-script-to-get-path-from-finder
